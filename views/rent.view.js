@@ -4,6 +4,8 @@ const getView = (properties) => `
     <option value="Banda Norte">Banda Norte</option>
     <option value="Castelli">Castelli</option>
     <option value="Centro">Centro</option>
+    <option value="Macro Centro"> Macro Centro</option>
+    <option value="Bimaco">Bimaco</option>
   </select>
   <div class="propiedades">
     ${
